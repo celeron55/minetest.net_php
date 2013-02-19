@@ -1,0 +1,13 @@
+<files hits.log>
+	order allow,deny
+	deny from all
+</files>
+
+# Doesn't work
+#RewriteEngine on
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME}.php -f
+#RewriteRule ^(.*)$ $1.php [NC,L]
+
+ErrorDocument 404 /~celeron55/minetest2/404.php
+

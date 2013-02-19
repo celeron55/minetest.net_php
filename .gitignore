@@ -1,0 +1,7 @@
+# The old developer wiki
+/wiki
+
+# General stuff
+*.swp
+*.swo
+

@@ -1,0 +1,7 @@
+<files hits.log>
+order allow,deny
+deny from all
+</files>
+
+ErrorDocument 404 /~celeron55/minetest2/wikimoved/404.php
+

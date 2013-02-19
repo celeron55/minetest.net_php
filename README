@@ -1,0 +1,10 @@
+The minetest.net PHP website
+============================
+
+Directory layout:
+-----------------
+├── forum     # Forum redirect
+├── images    #
+├── wiki      # Old developer wiki (not included in the repo)
+└── wikimoved # Mapped to wiki.minetest.net for redirects to dev.minetest.net
+
