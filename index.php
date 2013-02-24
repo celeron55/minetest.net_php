@@ -46,7 +46,7 @@ Minetest is an<!--a free and open source--> infinite-world block sandbox game an
 It is Free and Open Source Software, released under the LGPL, available for Windows and Linux.<!-- This way it is more readily available to Linux users, and random people (you!) can fix bugs and experiment effectively.-->
 </p>
 <p>
-Minetest is developed by Perttu "celeron55" Ahola and a number of contributors.
+Minetest is developed by <a href="https://www.ohloh.net/p/minetest-c55/contributors?sort=latest_commit">a random group of lunatics</a>.
 </p>
 <!--<p>
 If you like the game or would like to see more games from me, you should consider <a href="donations.php">donating</a>.
@@ -94,11 +94,19 @@ Runs natively on Windows and Linux (C++ and Irrlicht. No Java.)
 IRC Channels:
 <ul>
 <li>#minetest @ Freenode</li>
+<li>#minetest-dev @ Freenode</li>
 </ul>
 </li>
 </li>
 <li>
-The Author: Perttu Ahola, celeron55 @ IRCnet and gmail.com + contributors (see github or so) (<a href="http://www.ohloh.net/p/minetest-c55/contributors">ohloh</a>)
+Authors:
+<ul>
+<li>
+Core developers: umm... how about <a href="https://www.ohloh.net/p/minetest-c55/contributors?sort=latest_commit">ohloh</a>?
+</li>
+<li>
+Original author: Perttu Ahola, celeron55 @ IRCnet and gmail.com
+</li>
 </li>
 </ul>
 </p>
