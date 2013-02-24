@@ -45,7 +45,7 @@ You can <a href="donations.php">donate money</a> for covering hosting costs and 
 You can create content to the game independently via <a href="forum/viewforum.php?id=9">mods</a>.
 <ul>
 <li><a href="http://api.minetest.net/">Modding API (tutorial/reference)<a></li>
-<li><a href="https://github.com/celeron55/minetest/blob/stable-0.4/doc/lua_api.txt">doc/lua_api.txt: Short reference</a></li>
+<li><a href="https://github.com/minetest/minetest/blob/stable-0.4/doc/lua_api.txt">doc/lua_api.txt: Short reference</a></li>
 <li><a href="forum/viewforum.php?id=9">Forum / Modding General</a></li>
 <li><a href="forum/viewforum.php?id=11">Forum / Mod Releases</a></li>
 <li><a href="http://webchat.freenode.net/?channels=minetest-mods">#minetest-mods on Freenode</a>.</li>

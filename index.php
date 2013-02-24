@@ -68,7 +68,7 @@ Walk around, dig and build in an infinite voxel world (or boxel, as reddit calls
 Sinfully easy server-side
 <a href="http://minetest.net/forum/viewforum.php?id=11">modding</a>
 <a href="http://api.minetest.net/">API</a>.
-<a href="https://github.com/celeron55/minetest/blob/stable-0.4/doc/lua_api.txt">(short)</a>
+<a href="https://github.com/minetest/minetest/blob/stable-0.4/doc/lua_api.txt">(short)</a>
 </li>
 <li>
 Multiplayer support for tens of players, via servers hosted by users<br/>

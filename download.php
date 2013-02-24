@@ -6,7 +6,7 @@ include("header.php");
 <?php
 
 function githubdownload($repo, $text, $tag, $ball){
-	echo("<a href=\"https://github.com/celeron55/$repo/".$ball.
+	echo("<a href=\"https://github.com/minetest/$repo/".$ball.
 			"/".$tag."\">".$text."</a>\n");
 }
 
@@ -53,24 +53,24 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 <td width="30%" valign="top" style="padding-right: 1em;">
 	<ul>
 		<li>
-			<a href="https://github.com/downloads/celeron55/minetest/minetest-0.4.4-win32.zip">
+			<a href="https://github.com/downloads/minetest/minetest/minetest-0.4.4-win32.zip">
 			<span class="bigdownload">
 			Minetest 0.4.4 (zip)
 			</span>
 			</a>
 		</li>
 		<li>
-			<a href="https://github.com/downloads/celeron55/minetest/minetest-0.4.3-win32.zip">
+			<a href="https://github.com/downloads/minetest/minetest/minetest-0.4.3-win32.zip">
 			Minetest 0.4.3 (zip)
 			</a>
 		</li>
 		<li>
-			<a href="https://github.com/downloads/celeron55/minetest/minetest-0.4.1-win32.zip">
+			<a href="https://github.com/downloads/minetest/minetest/minetest-0.4.1-win32.zip">
 			Minetest 0.4.1 (zip)
 			</a>
 		</li>
 		<li>
-			<a href="https://github.com/downloads/celeron55/minetest/minetest-0.3.1-win32.zip">
+			<a href="https://github.com/downloads/minetest/minetest/minetest-0.3.1-win32.zip">
 			Minetest 0.3.1 (zip)
 			</a>
 		</li>
@@ -222,24 +222,24 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 	<tr>
 	<td width="50%" valign="top" style="padding-right: 1em;">
 
-	<h4>Unstable (0.4) <a href="https://github.com/celeron55/minetest">github</a></h4>
+	<h4>Unstable (0.4) <a href="https://github.com/minetest/minetest">github</a></h4>
 
 	<!--<table style="margin: 1em; margin-left: 3em;">-->
 	<table class="sourcetable">
 		<tr>
 		<td>minetest</td>
 		<td>
-			<a href="https://github.com/celeron55/minetest/tarball/master">tar.gz</a>
-			<a href="https://github.com/celeron55/minetest/zipball/master">zip</a>
-			<a href="https://github.com/celeron55/minetest">github</a>
+			<a href="https://github.com/minetest/minetest/tarball/master">tar.gz</a>
+			<a href="https://github.com/minetest/minetest/zipball/master">zip</a>
+			<a href="https://github.com/minetest/minetest">github</a>
 		</td>
 		</tr>
 		<tr>
 		<td>minetest_game</td>
 		<td>
-			<a href="https://github.com/celeron55/minetest_game/tarball/master">tar.gz</a>
-			<a href="https://github.com/celeron55/minetest_game/zipball/master">zip</a>
-			<a href="https://github.com/celeron55/minetest_game">github</a>
+			<a href="https://github.com/minetest/minetest_game/tarball/master">tar.gz</a>
+			<a href="https://github.com/minetest/minetest_game/zipball/master">zip</a>
+			<a href="https://github.com/minetest/minetest_game">github</a>
 		</td>
 		</tr>
 	</table>
@@ -279,12 +279,12 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 	<p>Note: minetest_game goes in the games/ directory of minetest. Rename it as minetest_game (instead of the long name in the package).
 	</p>
 	<p>
-	<a href="https://github.com/celeron55/minetest/blob/master/README.txt">README.txt</a> of 0.4.
+	<a href="https://github.com/minetest/minetest/blob/master/README.txt">README.txt</a> of 0.4.
 	</p>
 
 	<h4>Using source of 0.3</h4>
 	<p>
-	Just build it. <a href="https://github.com/celeron55/minetest/blob/stable-0.3/README.txt">README.txt</a> of 0.3.
+	Just build it. <a href="https://github.com/minetest/minetest/blob/stable-0.3/README.txt">README.txt</a> of 0.3.
 	</p>
 
 	</td>

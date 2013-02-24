@@ -16,7 +16,7 @@ Ubuntu packages should be ready in Launchpad in a moment, as well as Archlinux A
 </p>
 <h3>Download</h3>
 <ul style="font-weight: bold;">
-<li><a href="http://github.com/downloads/celeron55/minetest/minetest-0.4.4-win32.zip">Windows: minetest-0.4.4-win32.zip</a></li>
+<li><a href="http://github.com/downloads/minetest/minetest/minetest-0.4.4-win32.zip">Windows: minetest-0.4.4-win32.zip</a></li>
 <li><a href="/download.php">Others</a></li>
 </ul>
 <h3>Related</h3>

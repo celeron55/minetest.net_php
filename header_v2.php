@@ -53,7 +53,7 @@ if(!isset($title))
 				<li class="navlink_special"><a href="http://c55.me/blog">Blog</a></li>
 				<li class="navlink_special"><a href="http://wiki.minetest.com/wiki/">Wiki</a></li>
 				<li class="navlink_special"><a href="http://forum.minetest.net/">Forum</a></li>
-				<li class="navlink_special"><a href="https://github.com/celeron55/minetest">Github</a></li>
+				<li class="navlink_special"><a href="https://github.com/minetest/minetest">Github</a></li>
 				<li class="navlink_special"><a href="http://api.minetest.net/">API</a></li>
 			</ul>
 		</span>
