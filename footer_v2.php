@@ -8,7 +8,7 @@
 	</div>
 	<div class="footerlogo">
 		<img src="images/minetest-icon-120_gray_translucent.png" alt="logo">
-		<span>
+		<div>
 			<ul class="footermainlist">
 				<li class="the_li">
 					Minetest
@@ -27,7 +27,7 @@
 					<a href="http://freedns.afraid.org">FreeDNS</a>,
 				</li>
 			</ul>
-		</span>
+		</div>
 	</div>
 </div>
 
