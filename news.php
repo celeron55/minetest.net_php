@@ -76,7 +76,6 @@ Modding-related changes:
 * Added shutdown hook interface to Lua API (matttpt)
 * Added "attached_node" group to make nodes which are not attached to any other walkable node drop (PilzAdam)
 </pre>
-</p>
 </div>
 
 <?php

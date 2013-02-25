@@ -12,15 +12,15 @@ include("header.php");
 	<h3>Public Servers</h3>
 	<p>
 		<ul>
-<li><a href="http://servers.minetest.ru/">thexyz's server index</a></li>
-<li><a href="http://minetest.net/forum/viewforum.php?id=10">Forum section</a></li>
-<li><a href="http://minetest.com/servers/">minetest.com list</a></li>
-<!--<li><a href="http://minetest.net/wiki/doku.php?id=public_servers">dev wiki (outdated)</a></li>-->
+            <li><a href="http://servers.minetest.ru/">thexyz's server index</a></li>
+            <li><a href="http://minetest.net/forum/viewforum.php?id=10">Forum section</a></li>
+            <li><a href="http://minetest.com/servers/">minetest.com list</a></li>
+            <!--<li><a href="http://minetest.net/wiki/doku.php?id=public_servers">dev wiki (outdated)</a></li>-->
 		</ul>
 	</p>
 	<p>
 		<ul>
-<li>celeron55's server is currently down for an undefined period of time. Apologies.</li>
+            <li>celeron55's server is currently down for an undefined period of time. Apologies.</li>
 		</ul>
 	</p>
 </div>
