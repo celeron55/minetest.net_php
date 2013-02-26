@@ -217,19 +217,21 @@ body {
 	text-shadow: #210 -1px -1px 0px;
 }
 
+.footerlogo div{
+    display:inline-block;
+    vertical-align: middle;
+    margin: 1em;
+}
+
 .footerlogo {
 	margin: auto;
 	text-align: center;
-	/*margin-top: 3em;*/
 }
 
 .footerlogo img {
 	vertical-align: middle;
 }
-.footerlogo span {
-	vertical-align: middle;
-	margin: 1em;
-}
+
 .footermainlist {
 	vertical-align: middle;
 	display: inline-block;
