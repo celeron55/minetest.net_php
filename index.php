@@ -97,7 +97,6 @@ IRC Channels:
 <li>#minetest-dev @ Freenode</li>
 </ul>
 </li>
-</li>
 <li>
 Authors:
 <ul>
@@ -107,9 +106,9 @@ Core developers: umm... how about <a href="https://www.ohloh.net/p/minetest-c55/
 <li>
 Original author: Perttu Ahola, celeron55 @ IRCnet and gmail.com
 </li>
+</ul>
 </li>
 </ul>
-</p>
 
 <?php
 include("footer.php");

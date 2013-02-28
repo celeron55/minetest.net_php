@@ -7,14 +7,14 @@ if(!isset($title))
 ?>
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="fi">
+<html>
 <head>
 	<meta name="keywords" content="minetest minetest-c55" />
 	<meta name="description" content="Minetest (minetest-c55): An open source Infiniminer/Minecraft style game" />
-	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="stylesheet" href="style_v2.css" type="text/css" />
 	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="bookmark icon" href="/favicon.ico" />
+	<link rel="icon" href="/favicon.ico" />
 	<title><?php
 		if($title != "")
 			echo($title." - Minetest");
@@ -35,7 +35,7 @@ if(!isset($title))
 
 <div id="navbar" class="navbar">
 	<div class="constrain">
-		<span class="inbar_main">
+		<div class="inbar_main">
 			<ul>
 				<li class="navlink_normal"><a href="index.php">About</a></li>
 				<li class="navlink_normal"><a href="news.php">News</a></li>
@@ -44,11 +44,11 @@ if(!isset($title))
 				<li class="navlink_normal"><a href="support.php">Support</a></li>
 				<!--<li class="navlink_normal"><a href="donations.php">Donate</a></li>-->
 			</ul>
-		</span>
-		<span class="inbar_separator">
+		</div>
+		<div class="inbar_separator">
 			|
-		</span>
-		<span class="inbar_other">
+		</div>
+		<div class="inbar_other">
 			<ul>
 				<li class="navlink_special"><a href="http://c55.me/blog">Blog</a></li>
 				<li class="navlink_special"><a href="http://wiki.minetest.com/wiki/">Wiki</a></li>
@@ -56,7 +56,7 @@ if(!isset($title))
 				<li class="navlink_special"><a href="https://github.com/minetest/minetest">Github</a></li>
 				<li class="navlink_special"><a href="http://api.minetest.net/">API</a></li>
 			</ul>
-		</span>
+		</div>
 	</div>
 </div>
 <div class="navbarbottom1">
@@ -65,10 +65,10 @@ if(!isset($title))
 <div id="logo">
 	<div class="constrain">
 		<img src="images/minetest-icon-120.png" alt="logo" id="logoimage">
-		<span class="bigheader">
+		<div class="bigheader">
 			<h1>Minetest</h1>
 			<h2><?php echo($title); ?></h2>
-		</span>
+		</div>
 	</div>
 </div>
 
