@@ -50,7 +50,7 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 <th style="text-align: left; padding-top: 1.5em;">???</th>
 </tr>
 <tr>
-<td width="30%" valign="top" style="padding-right: 1em;">
+<td style="width:30%;vertical-align:top;padding-right: 1em;">
 	<ul>
 		<li>
 			<a href="https://github.com/downloads/minetest/minetest/minetest-0.4.4-win32.zip">
@@ -99,14 +99,14 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 		</li>
 	</ul>
 </td>
-<td width="30%" valign="top" style="padding-right: 1em;">
+<td style="width:30%;vertical-align:top;padding-right: 1em;">
 <pre>
 <a href="http://forum.minetest.net/viewtopic.php?id=4240">* xyz       [msvc2010]  [forum]</a>
 <a href="http://forum.minetest.net/viewtopic.php?id=4547">* PilzAdam  [mingw   ]  [forum]</a>
 <a href="http://forum.minetest.net/viewtopic.php?id=1523">* sfan5     [mingw?  ]  [forum]</a>
 </pre>
 </td>
-<td valign="top">
+<td style="vertical-align:top;">
 	<p>
 	Extract the zip package somewhere. Run the executable found in the bin/ folder.
 	Also see the
@@ -132,7 +132,7 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 
 <table style="border-spacing: 0; margin: 0; padding: 0; border: 0;">
 <tr>
-<td width="50%" valign="top">
+<td style="width:50%;vertical-align:top;">
 	<h5>Stable</h5>
 	<ul>
 		<li>Debian: Found in Apt.</li>
@@ -162,7 +162,7 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 		</li>-->
 	<!--</ul>-->
 </td>
-<td valign="top">
+<td style="vertical-align:top;">
 	<p>
 	These packages have not necessarily been created by any of the developers of Minetest. Contact the authors of the packages in case of problems (at first).
 	</p>
@@ -188,7 +188,7 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 
 <table style="border-spacing: 0; margin: 0; padding: 0; border: 0;">
 <tr>
-<td width="50%" valign="top" style="padding-right: 2em;">
+<td style="width:50%;vertical-align:top;padding-right: 2em;">
 	<ul>
 		<li>
 			<a href="https://github.com/toabi/minetest-mac/downloads">Toabi's old github downloads</a>
@@ -220,7 +220,7 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 
 	<table style="border-spacing: 0; margin: 0; padding: 0; border: 0;">
 	<tr>
-	<td width="50%" valign="top" style="padding-right: 1em;">
+	<td style="width:50%;vertical-align:top;padding-right: 1em;">
 
 	<h4>Unstable (0.4) <a href="https://github.com/minetest/minetest">github</a></h4>
 
@@ -270,7 +270,7 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 	</table>
 
 	</td>
-	<td valign="top">
+	<td style="vertical-align:top;">
 
 	<h4>Using source of 0.4</h4>
 	<p>
