@@ -18,6 +18,8 @@ function githubtarzip($repo, $tag){
 $dls = array(
 array("text" => "minetest-0.4.x", "tag" => "stable-0.4"),
 array("text" => "minetest_game-0.4.x", "tag" => "stable-0.4", "repo" => "minetest_game"),
+array("text" => "minetest-0.4.5", "tag" => "0.4.5"),
+array("text" => "minetest_game-0.4.5", "tag" => "0.4.5", "repo" => "minetest_game"),
 array("text" => "minetest-0.4.4", "tag" => "0.4.4"),
 array("text" => "minetest_game-0.4.4", "tag" => "0.4.4", "repo" => "minetest_game"),
 array("text" => "minetest-0.4.3", "tag" => "0.4.3"),
@@ -53,10 +55,15 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 <td style="width:30%;vertical-align:top;padding-right: 1em;">
 	<ul>
 		<li>
-			<a href="https://github.com/downloads/minetest/minetest/minetest-0.4.4-win32.zip">
+			<a href="http://minetest.ru/builds/minetest-0.4.5.zip">
 			<span class="bigdownload">
-			Minetest 0.4.4 (zip)
+			Minetest 0.4.5 (zip)
 			</span>
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/downloads/minetest/minetest/minetest-0.4.4-win32.zip">
+			Minetest 0.4.4 (zip)
 			</a>
 		</li>
 		<li>
