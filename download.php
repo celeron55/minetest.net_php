@@ -142,7 +142,7 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 <td style="width:50%;vertical-align:top;">
 	<h5>Stable</h5>
 	<ul>
-		<li>Debian: Found in Apt.</li>
+		<li><a href="http://packages.debian.org/sid/minetest">Debian: Found in Apt.</a></li>
 		<li><a href="https://community.dev.fedoraproject.org/packages/minetest">Fedora: Found in Yum.</a></li>
 		<li><a href="http://aur.archlinux.org/packages.php?ID=51142">Arch Linux</a></li>
 		<li><a href="https://code.launchpad.net/~minetestdevs/+archive/stable/+packages">Ubuntu/Mint</a></li>
