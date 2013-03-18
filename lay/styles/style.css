@@ -1,0 +1,160 @@
+h3 {
+font-family:"Calibri", sans-serif;
+margin:0;
+padding:0;
+margin-bottom:13px;
+color:#323232;
+letter-spacing:-1px;
+font-weight:normal;
+font-size:32px;
+display:block;
+height:25px;
+}
+
+
+.page{
+color:#404040;
+text-indent:0px;
+font-family:"Calibri", sans-serif;
+font-size:17px;
+text-indent:0px;
+text-align:left;
+float:none;
+clear:both;
+}
+
+.page span{
+font-size:22px;
+}
+
+
+a:link,
+a:visited{
+color:#404040;
+font-family:"Calibri", sans-serif;
+font-size:19px;
+font-weight:normal;
+text-decoration:underline;
+text-align:left;
+padding:0;
+margin:0;
+}
+
+a:hover,
+a:visited:hover{
+color:#CA000E;
+text-decoration:underline;
+text-align:left;
+}
+
+a.sub:link,
+a.sub:visited{
+color:#404040;
+font-family:"Calibri", sans-serif;
+font-size:16px;
+font-weight:normal;
+text-decoration:underline;
+text-align:left;
+padding:0;
+margin:0;
+}
+
+a.sub:hover,
+a.sub:visited:hover{
+color:#CA000E;
+text-decoration:underline;
+text-align:left;
+}
+
+*/OLD*/
+
+
+
+img.nav2 {
+border:0;
+margin:0;
+margin-top:4px;
+margin-left:3px;
+margin-right:2px;
+float:left;
+}
+
+img.nav {
+border:0;
+margin:0;
+margin-top:8px;
+margin-left:3px;
+margin-right:2px;
+float:left;
+}
+
+img.no_cell {
+border:0;
+margin:0;
+margin-right:3px;
+margin-top:2px;
+float:left;
+}
+
+
+#fav1 {
+float:left; 
+height:16px; 
+background-image:url(./graph/16/fav_war.png);
+}
+
+#fav1:hover {
+background-image:url(./graph/16/fav.png);
+}
+
+#fav1 a{
+color:#000000;
+display:block;
+width:16px;
+height:16px;
+padding:0;
+margin:0;
+float:left;
+}
+
+#fav1 a:hover {
+color:#000000;
+display:block;
+width:16px;
+height:16px;
+padding:0;
+margin:0;
+background-image:url(./graph/16/fav_h.png);
+float:left;
+}
+
+#fav2 {
+float:left; 
+height:16px; 
+background-image:url(./graph/16/fav_dis.png);
+}
+
+#fav2:hover {
+background-image:url(./graph/16/fav_war.png);
+}
+
+#fav2 a{
+color:#000000;
+display:block;
+width:16px;
+height:16px;
+padding:0;
+margin:0;
+float:left;
+}
+
+#fav2 a:hover {
+color:#000000;
+display:block;
+width:16px;
+height:16px;
+padding:0;
+margin:0;
+background-image:url(./graph/16/fav_h2.png);
+float:left;
+}
