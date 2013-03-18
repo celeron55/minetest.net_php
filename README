@@ -7,5 +7,5 @@ Future Directory layout:
 ├── images    #
 ├── lay       # Contains the layout-files
 ├── graph     # layout graphics
-├── wiki      # Old developer wiki (not included in the repo)
+└── wikimoved # Mapped to wiki.minetest.net for redirects to dev.minetest.net
 
