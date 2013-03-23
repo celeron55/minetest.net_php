@@ -41,8 +41,7 @@ Things the money will be used for:
 <ol>
 	<li>Hosting of website(s)</li>
 	<li>Paying for people to do stuff nobody would otherwise do</li>
-	<li>Buying snacks to fuel this coding machine called "celeron55"</li>
-	<li>Supporting other projects</li>
+	<li>Supporting other (possibly related) projects</li>
 	<li>Dunno... advertising? whatever? In case I end up with too much monies, I'm pretty sure we can find use for it. Discussions shall be had on IRC.</li>
 </ol>
 
