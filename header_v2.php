@@ -38,11 +38,10 @@ if(!isset($title))
 		<div class="inbar_main">
 			<ul>
 				<li class="navlink_normal"><a href="index.php">About</a></li>
-				<!--<li class="navlink_normal"><a href="news.php">News</a></li>-->
 				<li class="navlink_normal"><a href="download.php">Download</a></li>
+				<li class="navlink_normal"><a href="extend.php">Extend</a></li>
 				<li class="navlink_normal"><a href="contribute.php">Contribute</a></li>
 				<li class="navlink_normal"><a href="support.php">Support</a></li>
-				<!--<li class="navlink_normal"><a href="donations.php">Donate</a></li>-->
 			</ul>
 		</div>
 		<div class="inbar_separator">

@@ -40,6 +40,10 @@ array("text" => "0.2.20110922_3", "tag" => "0.2.20110922_3"),
 
 <h2>Download</h2>
 
+<p>
+After downloading, make sure to <a href="extend.php">get some mods and stuff</a>.
+</p>
+
 <!-- Windows -->
 
 <div class="osdownload">
