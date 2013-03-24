@@ -12,3 +12,6 @@ echo "
 					<div id='bxmm' style='background:none;'>
 						<div id='top' align='left'>
 ";
+
+include("./nav/main.php");
+?>

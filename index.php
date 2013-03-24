@@ -1,38 +1,8 @@
 <?php
-$title = "Minetest";
+$title = "";
 $notify_type = "info";
 $msg = "";
-
-
-$top = "
-
-<div id='menu'>
-<ul>
-<li><a href='#'>Home</a></li>
-<li><a href='#'>Download</a></li>
-<li><a href='#'>Mods</a></li>
-<li><a href='#'>Texture Packs</a></li>
-<li><a href='#'>Community</a>
-	<ul>
-	<li><a href='#' class='sub'>Forum</a></li>
-	<li><a href='#' class='sub'>Contribute</a></li>
-	</ul>
-</li>
-<li><a href='#'>Wiki</a></li>
-<li><a href='#'>Development</a>
-	<ul>
-	<li><a href='#' class='sub'>Github</a></li>
-	<li><a href='#' class='sub'>Api</a></li>
-	<li><a href='#' class='sub'>Blog</a></li>
-	</ul>
-</li>
-<li style='float:right;'><a href='#'>Support us</a></li>
-</ul>
-
-</div>
-
-
-<div style='position:absolute; top:41px; z-index:99; padding-left:8px;'><img src='./graph/minetest.png' class='no' style='z-index:99;' /></div>";
+$nav_category = "Home";
 
 $main = "
 <!--<h2>Caption</h2>-->
@@ -71,7 +41,6 @@ $main = "
 		<a href='' class='sub'>browse all Texture Packs</a>
 	</div>
 </div>
-
 ";
 
 $foot = "#footer";

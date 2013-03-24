@@ -1,7 +1,6 @@
 body {
 background:#CCE3F3;
 background-image:url(./../../graph/bg.png);
-background-repeat:repeat-x;
 margin:0;
 
 padding:0;
@@ -18,8 +17,24 @@ border:0;
 margin:0;
 }
 
+img.logo {
+border:0;
+margin:0;
+z-index:99;
+}
+
+img.logo_sub {
+width:520px;
+border:0;
+margin:0;
+margin-top:10px;
+z-index:99;
+}
+
 #container {
 width:100%;
+background-image:url(./../../graph/bg_head.png);
+background-repeat:repeat-x;
 }
 
 #box {
@@ -95,7 +110,29 @@ height:185px;
 }
 
 
-/*could be usefull for notifications, not implemented at all /*
+/*top-section*/
+#logo_box {
+position:absolute;
+top:41px;
+padding-left:8px;
+z-index:99;
+}
+
+#sub_title_box {
+float:right; 
+min-width:50px; 
+height:44px; 
+max-height:44px; 
+margin-top:137px; 
+padding:0; 
+padding-left:15px; 
+padding-right:18px; 
+padding-top:4px;
+background-color:#C8C8C8; 
+background-image:url(./../../graph/page-bg.png);
+}
+
+/*could be usefull for notifications, not implemented at all */
 #notify {
 float:left;
 width:100%;  

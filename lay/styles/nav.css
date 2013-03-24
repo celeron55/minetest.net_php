@@ -51,12 +51,12 @@ float:left;
 
 #menu ul li:hover ul {
 display:block;
-background:#fff;
+background:#EEF8FF;
 }
 
 #menu ul li:hover a {
 display:block;
-background-color:#fff;
+background-color:#EEF8FF;
 }
 
 #menu a:link {

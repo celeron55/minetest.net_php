@@ -2,7 +2,8 @@
 
 include("head.php");
 include("top_start.php");
-	echo "<div id='logo_box'><img src='./graph/minetest.png' class='logo' /></div>";
+	echo "<div id='logo_box'><img src='./graph/minetest.png' class='logo_sub' /></div>
+	<div id='sub_title_box'><h3>$title</h3></div>";
 include("top_stop.php");
 
 include("cont_norm_start.php");
