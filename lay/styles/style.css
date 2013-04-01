@@ -15,7 +15,6 @@ h4 {
 margin-bottom:3px;
 }
 
-
 .page{
 color:#404040;
 font-family:"Calibri", sans-serif;
@@ -30,6 +29,13 @@ clear:both;
 font-size:22px;
 }
 
+.page h4 span {
+font-size:12px;
+}
+
+.page .page_small {
+font-size:12px;
+}
 .page_small {
 color:#404040;
 font-family:"Calibri", sans-serif;
