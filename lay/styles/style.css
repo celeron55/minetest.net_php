@@ -11,10 +11,13 @@ display:block;
 height:25px;
 }
 
+h4 {
+margin-bottom:3px;
+}
+
 
 .page{
 color:#404040;
-text-indent:0px;
 font-family:"Calibri", sans-serif;
 font-size:17px;
 text-indent:0px;
@@ -23,10 +26,19 @@ float:none;
 clear:both;
 }
 
-.page span{
+.page span {
 font-size:22px;
 }
 
+.page_small {
+color:#404040;
+font-family:"Calibri", sans-serif;
+font-size:12px;
+text-indent:0px;
+text-align:left;
+float:none;
+clear:both;
+}
 
 a:link,
 a:visited{
@@ -66,6 +78,13 @@ text-decoration:underline;
 text-align:left;
 }
 
+
+a.small:link,
+a.small:visited,
+a.small:hover,
+a.small:visited:hover{
+font-size:12px;
+}
 /*OLD*/
 
 

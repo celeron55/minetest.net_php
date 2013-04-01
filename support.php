@@ -39,15 +39,14 @@ In case you'd prefer an european bank account number, send me an e-mail.
 </td>
 <td>
 <!--If you would prefer another way to support us, then take a look at your souvenier shop:-->
-OR buy a shirt, cup or stuff like that at this shop. The profits will be used for 100% for Minetest.
-<img src='http://i1.cpcache.com/product/770284705/black_and_yellow_white_tshirt.jpg' />
+OR buy a shirt, coffe mug or stuff like that at <a href='http://www.cafepress.com/sk/minetest'>this shop</a>. The profits will be used for 100% for Minetest.
+<img src='./images/shop.jpg' style='width:80%;' /><br />
+<a href='http://www.cafepress.com/sk/minetest' style='font-weight:bold;'>To the shop</a>
 </td>
 </tr>
 </table>
-
+</span>
 ";
-
-$foot = "#footer";
 
 include("./lay/dummy_sub.php")
 ?>

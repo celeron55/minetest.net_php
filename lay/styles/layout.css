@@ -100,7 +100,10 @@ min-height:400px;
 
 #foot_content {
 margin:5px;
-max-height:50px;
+min-height:20px;
+padding:32px;
+padding-bottom:0;
+text-align:left;
 }
 
 #top {
@@ -130,6 +133,18 @@ padding-right:18px;
 padding-top:4px;
 background-color:#C8C8C8; 
 background-image:url(./../../graph/page-bg.png);
+}
+
+
+/*content_sub_boxes*/
+#cont_left {
+width:576px;
+float:left; 
+}
+
+#cont_right {
+width:305px;
+float:left; 
 }
 
 /*could be usefull for notifications, not implemented at all */

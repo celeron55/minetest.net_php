@@ -18,6 +18,6 @@ echo $main;
 include("cont_norm_stop.php");
 
 include("foot_start.php");
-	echo $foot;
+	include("./foot.php");
 include("foot_stop.php")
 ?>
