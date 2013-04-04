@@ -18,6 +18,8 @@ function githubtarzip($repo, $tag){
 $dls = array(
 array("text" => "minetest-0.4.x", "tag" => "stable-0.4"),
 array("text" => "minetest_game-0.4.x", "tag" => "stable-0.4", "repo" => "minetest_game"),
+array("text" => "minetest-0.4.6", "tag" => "0.4.6"),
+array("text" => "minetest_game-0.4.6", "tag" => "0.4.6", "repo" => "minetest_game"),
 array("text" => "minetest-0.4.5", "tag" => "0.4.5"),
 array("text" => "minetest_game-0.4.5", "tag" => "0.4.5", "repo" => "minetest_game"),
 array("text" => "minetest-0.4.4", "tag" => "0.4.4"),
@@ -59,10 +61,15 @@ After downloading, make sure to <a href="extend.php">get some mods and stuff</a>
 <td style="width:30%;vertical-align:top;padding-right: 1em;">
 	<ul>
 		<li>
-			<a href="http://minetest.ru/builds/minetest-0.4.5.zip">
+			<a href="http://minetest.ru/builds/minetest-0.4.6.zip">
 			<span class="bigdownload">
-			Minetest 0.4.5 (zip)
+			Minetest 0.4.6 (zip)
 			</span>
+			</a>
+		</li>
+		<li>
+			<a href="http://minetest.ru/builds/minetest-0.4.5.zip">
+			Minetest 0.4.5 (zip)
 			</a>
 		</li>
 		<li>
